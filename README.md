@@ -10,15 +10,17 @@ During this Course Project you are going to begin taking a look at some of the s
 
 Analyzing some of the social aspects of the pandemic by conducting a human centered data science analysis of available COVID-19 data for one specific County of the United States - Will County, Illinois. 
  
- Question:
- How did masking policies change the progression of confirmed COVID-19 cases from February 1, 2020 through October 1, 2021?
+Question:
+How did masking policies change the progression of confirmed COVID-19 cases from February 1, 2020 through October 1, 2021?
  
+Part-1.ipynb - Code for exploring, analysis and visulaization of datasets.
+
+visualization.png - Visualization of analysis of assigned county.
+
  ### Data: 
  
  - The RAW_us_confirmed_cases.csv file from the Kaggle repository of John Hopkins University COVID-19 data. This data is updated daily. You can use any revision of this dataset posted after October 1, 2022.
 - The CDC dataset of masking mandates by county. Note that the CDC stopped collecting this policy information in September 2021.
 - The New York Times mask compliance survey data.
 
-visualization.png: Visualization of analysis of assigned county.
 
-Part-1.ipynb - Code for exploring, analysis and visulaization of datasets.
