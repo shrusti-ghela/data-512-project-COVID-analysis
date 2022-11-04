@@ -21,4 +21,4 @@ Analyzing some of the social aspects of the pandemic by conducting a human cente
 
 visualization.png: Visualization of analysis of assigned county.
 
-Part-1  .ipynb - Code for exploring, analysis and visulaization of datasets.
+Part-1.ipynb - Code for exploring, analysis and visulaization of datasets.
