@@ -40,6 +40,6 @@ Part 4 - Project Report (1).pdf - Documentation of the end result for making it 
 
 ### Data: 
 
-- "Overdoses.csv" consist of all the non-fatal overdoses recorded daily in Will County from 2018 to 2020
-- "Overdose deaths.csv" consist of all the fatal overdoses recorded daily in Will County from 2018 to 2020
-- "monthly.csv" consist of monthly overdoses in Will County for the years 2019 and 2020
+- "Overdoses.csv" consist of all the non-fatal overdoses recorded daily in Will County from 2018 to 2020 (taken from Will County website available for public use)
+- "Overdose deaths.csv" consist of all the fatal overdoses recorded daily in Will County from 2018 to 2020 (taken from Will County website available for public use)
+- "monthly.csv" consist of monthly overdoses in Will County for the years 2019 and 2020 (taken from Will County website available for public use)
